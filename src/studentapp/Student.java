@@ -30,7 +30,6 @@ public class Student {
         this.studentID = gradeYear + "" + id;                                      //Grade level + ID
 
     }
-
     public void enroll(){                                                          //Enroll in courses
         
         do {
